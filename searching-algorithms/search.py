@@ -1,6 +1,5 @@
 """
-CSC520-19fall Homework 2 
-Author: Jiaqing Yuan(jyuan23)
+Author: Jordan Yuan
 """
 class State:  # State class represents a tile's current state
 	def __init__(self, nparray, depth=0, path=""):
