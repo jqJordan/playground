@@ -1,2 +1,2 @@
 # playground
-miscellaneous projects covering a wide range of topics
+miscellaneous projects covering various topics
