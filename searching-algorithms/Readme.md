@@ -1,7 +1,7 @@
 Implemetation of Breadth First Search, AStar, Recursive Breadth First Search.
 Search with Heuristics
 
-python Search.py <ALG> <File>
+python search.py <ALG> <File>
 Where ALG is one of: "BFS", "AStar", "RBFS". And FILE is the puzzle file name.
 
 Coordinates of the Globe 
