@@ -3,7 +3,7 @@
 #### Search with Heuristics
 H(n) = (M(0, 0) + M(180, 180) + M(90, 0) + M(90, 90) + M(90, 180)) / 4
 
-python search.py <ALG> <File>
+python search.py \<ALG\> \<File\>
 
 Where ALG is one of: "BFS", "AStar", "RBFS". And FILE is the puzzle file name.
 
