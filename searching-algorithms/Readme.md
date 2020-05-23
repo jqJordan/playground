@@ -22,7 +22,7 @@ This specifies a single tile. In this case we have a tile with ID "30-180" that 
 
 The N-queens problem is a classical constraint problem where the goal is to determine where queens can be placed on an n ∗ n chessboard such that no two queens threaten the other.
 
-`NQueens.py ALG N CFile RFile`
+`python NQueens.py ALG N CFile RFile`
 
 where: ALG is one of FOR or MAC representing Backtracking search with forward checking or Maintaining
 Arc Consistency respectively. N represents the number of rows and columns in the chessboard as well as the
